@@ -23,9 +23,12 @@ def read_root():
 class Question(BaseModel):
     question: str
 
-@app.post("/answer")
+@app.post("/answer2")
 async def get_answer(request: Request, question: Question):
     advisor = ContractAdvisor(file_path="../data/Robinson_Advisory.txt", milvus_host="192.168.137.236", milvus_port="19530")
     answer = advisor.answer_question(question.question)
     return JSONResponse(content={"answer": answer['answer']})
 
+@app.post("/answer")
+async def get_answer(request: Request, question: Question):
+    return {"answer": "working!"}
