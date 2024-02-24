@@ -1,4 +1,3 @@
-import nest_asyncio
 import os
 import openai
 from dotenv import load_dotenv
@@ -26,7 +25,6 @@ class ContractAdvisor:
         self.milvus_port = milvus_port
         self.api_key = os.environ.get("OPENAI_API_KEY")
         openai.api_key = self.api_key
-        nest_asyncio.apply()
         self.loader = TextLoader(self.file_path, encoding="windows-1252")
         self.index = VectorstoreIndexCreator().from_loaders([self.loader])
         self.text_splitter = CharacterTextSplitter.from_tiktoken_encoder(chunk_size=1024, chunk_overlap=0)
@@ -54,9 +52,3 @@ class ContractAdvisor:
 
     def answer_question(self, question):
         return self.chain(self.PROMPT.format(question=question, chat_history=self.memory.chat_memory.messages, context=self.vector_db.similarity_search_with_score(question)))
-    
-
-# advisor = ContractAdvisor(file_path="../../data/Robinson_Advisory.txt", milvus_host="192.168.137.236", milvus_port="19530")
-# question = "What are the payments to the Advisor under the Agreement?"
-# answer = advisor.answer_question(question)
-# print(answer['answer'])
