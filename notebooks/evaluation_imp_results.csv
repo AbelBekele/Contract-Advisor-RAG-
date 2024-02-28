@@ -1,0 +1,81 @@
+Question,Ground Truth,Predicted Answer,Retrieved Context,Faithfulness Score,Answer Relevancy Score,Context Precision Score,Context Recall Score
+Who are the parties to the Agreement and what are their defined names?,Cloud Investments Ltd. (“Company”) and Jack Robinson (“Advisor”),"{'output_text': ' The parties to the Agreement are Cloud Investments Ltd. and Mr. Jack Robinson. Their defined names are ""Company"" and ""Advisor"" respectively.'}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.8782154131099379,0.5074074073904938,0.5
+What is the termination notice?,According to section 4:14 days for convenience by both parties. The Company may terminate without notice if the Advisor refuses or cannot perform the Services or is in breach of any provision of this Agreement.,"{'output_text': "" Fourteen (14) days' prior written notice""}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.8821636900981864,0.249999999975,1.0
+ What are the payments to the Advisor under the Agreement?," According to section 6: 1. Fees of $9 per hour up to a monthly limit of $1,500, 2. Workspace expense of $100 per month, 3. Other reasonable and actual expenses if approved by the company in writing and in advance.","{'output_text': "" The Advisor will be paid hourly fees at a rate of USD 9 per Billable Hour, limited to a maximum of USD 1,500 per month. In addition, the Company will pay the Advisor USD 100 per month for a workspace, as long as the Advisor actually hires a professional workspace. The Advisor will also be reimbursed for any reasonable and actual expenses incurred in connection with the performance of the Services, subject to Company's policies and prior written consent. The Advisor will be responsible for any income taxes or other assessments made or imposed by any governmental authority on the compensation received. ""}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.8989021830298772,0.19999999998,1.0
+Can the Agreement or any of its obligations be assigned?,"1. Under section 1.1 the Advisor can’t assign any of his obligations without the prior written consent of the Company, 2. Under section 9 the Advisor may not assign the Agreement and the Company may assign it, 3 Under section 9 of the Undertaking the Company may assign the Undertaking.","{'output_text': ' Yes, the Agreement or any of its obligations can be assigned.'}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",0.0,0.8036767245706221,0.1249999999875,1.0
+Who owns the IP?,"According to section 4 of the Undertaking (Appendix A), Any Work Product, upon creation, shall be fully and exclusively owned by the Company.",{'output_text': ' The Company'},"ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.7818609188524556,0.0,1.0
+Is there a non-compete obligation to the Advisor?,Yes. During the term of engagement with the Company and for a period of 12 months thereafter.,"{'output_text': ' Yes, there is a non-compete obligation to the Advisor as stated in the Advisory Services Agreement. '}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.9727509229534759,0.083333333325,1.0
+Can the Advisor charge for meal time?,"No. See Section 6.1, Billable Hour doesn’t include meals or travel time.","{'output_text': "" No, the Advisor cannot charge for meal time as it is not considered part of the Services. The Advisor is also required to comply with all of the Company's policies and procedures, which may include not charging for meal time. Additionally, the Advisor is not allowed to take any actions that may cause material damage to the good name of the Company, which could potentially include charging for meal time. Finally, the Advisor is required to keep the contents of this Agreement confidential and not disclose it to any third party without the Company's written consent.""}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",0.75,0.0,0.0,1.0
+In which street does the Advisor live?,"1 Rabin st, Tel Aviv, Israel",{'output_text': ' 1 Rabin st'},"ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,0.8019602536739486,0.9999999999,1.0
+Is the Advisor entitled to social benefits?,"No. According to section 8 of the Agreement, the Advisor is an independent consultant and shall not be entitled to any overtime pay, insurance, paid vacation, severance payments or similar fringe or employment benefits from the Company.","{'output_text': ' No, the Advisor is not entitled to social benefits as they are not an employee of the Company. '}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",1.0,1.0000000000000002,0.0,1.0
+What happens if the Advisor claims compensation based on employment relationship with the Company?," If the Advisor is determined to be an employee of the Company by a governmental authority, payments to the Advisor will be retroactively reduced so that 60% constitutes salary payments and 40% constitutes payment for statutory rights and benefits. The Company may offset any amounts due to the Advisor from any amounts payable under the Agreement. The Advisor must indemnify the Company for any losses or expenses incurred if an employer/employee relationship is determined to exist.","{'output_text': ' The Advisor shall not be entitled to any compensation with respect to the Services, which was not specifically agreed, in writing, between the Advisor and the Company.'}","ADVISORY SERVICES AGREEMENT
+
+This Advisory Services Agreement is entered into as of June 15th, 2023 (the “Effective Date”), by and between Cloud Investments Ltd., ID 51-426526-3, an Israeli company (the ""Company""), and Mr. Jack Robinson, Passport Number 780055578, residing at 1 Rabin st, Tel Aviv, Israel, Email: jackrobinson@gmail.com (""Advisor"").
+
+Whereas,	Advisor has expertise and/or knowledge and/or relationships, which are relevant to the Company’s business and the Company has asked Advisor to provide it with certain Advisory services, as described in this Agreement; and
+Whereas, 	Advisor has agreed to provide the Company with such services, subject to the terms set forth in this Agreement.
+
+NOW THEREFORE THE PARTIES AGREE AS FOLLOWS:",0.5,0.7875750889173504,0.14285714284285714,1.0
