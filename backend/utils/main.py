@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load environment variables from .env file
-load_dotenv()
+load_dotenv(override=True)
 # IMPORTANT: Remember to create a .env variable containing: OPENAI_API_KEY=sk-xyz where xyz is your key
 
 class ContractAdvisor:
