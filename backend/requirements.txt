@@ -1,1 +1,8 @@
 fastapi
+langchain-community
+langchain
+uvicorn
+openai
+python-dotenv
+langchain-openai
+python-multipart
